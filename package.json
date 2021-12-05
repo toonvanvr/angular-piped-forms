@@ -1,0 +1,28 @@
+{
+  "name": "angular-piped-forms",
+  "version": "1.0.0-alpha",
+  "description": "Typed Angular forms with a separate input, value and output type",
+  "main": "dist/angular-piped-forms.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toonvanvr/angular-piped-forms.git"
+  },
+  "keywords": [
+    "angular",
+    "typed",
+    "forms",
+    "piped",
+    "formgroup",
+    "formcontrol",
+    "formarray"
+  ],
+  "author": "Toon Vanvreckem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toonvanvr/angular-piped-forms/issues"
+  },
+  "homepage": "https://github.com/toonvanvr/angular-piped-forms#readme"
+}
