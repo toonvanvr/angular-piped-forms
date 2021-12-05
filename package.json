@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/toonvanvr/angular-piped-forms/issues"
   },
-  "homepage": "https://github.com/toonvanvr/angular-piped-forms#readme"
+  "homepage": "https://github.com/toonvanvr/angular-piped-forms#readme",
+  "dependencies": {
+    "@angular/forms": "^13.0.0"
+  }
 }
