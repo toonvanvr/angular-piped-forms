@@ -1,2 +1,5 @@
-# piped-angular-form
-Typed Angular forms with a separate input, value and output type
+# Piped forms for angular
+
+> Typed Angular forms with a separate input, value and output type
+
+This npm package is under construction
