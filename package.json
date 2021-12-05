@@ -27,5 +27,8 @@
   "homepage": "https://github.com/toonvanvr/angular-piped-forms#readme",
   "dependencies": {
     "@angular/forms": "^13.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
   }
 }
